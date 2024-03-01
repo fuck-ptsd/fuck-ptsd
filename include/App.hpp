@@ -2,6 +2,8 @@
 #define APP_HPP
 
 #include "pch.hpp" // IWYU pragma: export
+#include "Character.hpp"
+#include "Util/Root"
 
 class App {
 public:
